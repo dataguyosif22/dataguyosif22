@@ -1,21 +1,4 @@
-import {
-  Database,
-  TrendingUp,
-  LayoutDashboard,
-  Search,
-  BarChart3,
-  Users,
-  Trophy,
-  Star,
-  Wrench,
-  GraduationCap,
-  Mail,
-  Linkedin,
-  ExternalLink,
-  ArrowRight,
-  CheckCircle2,
-  Server,
-} from 'lucide-react'
+import { Database, TrendingUp, LayoutDashboard, Search, ChartBar as BarChart3, Users, Trophy, Star, Wrench, GraduationCap, Mail, Linkedin, ExternalLink, ArrowRight, CircleCheck as CheckCircle2, Server } from 'lucide-react'
 
 export const navLinks = [
   { label: 'About', href: '#about' },
