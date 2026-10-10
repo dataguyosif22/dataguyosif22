@@ -1,28 +1,36 @@
-### Data doesn't lie, but it does stay quiet until someone knows how to ask it the right question. That's where I come in.
+# Yusuf Tunde Dunmoye
 
-Hey, I'm Yusuf 👋 — a Data Analyst and BI Consultant based in Kaduna, Nigeria, helping e-commerce businesses turn scattered numbers into decisions that actually move revenue.
+Data Analyst and BI Consultant specializing in e-commerce analytics, based in Kaduna, Nigeria.
 
-I've spent the last few years in the trenches of real client data: messy CRMs, half-tracked funnels, dashboards nobody opens. My job isn't to build another report that sits there. It's to find the one insight that changes what a founder does on Monday morning.
+I build BI dashboards and SQL-driven analyses that tie directly to business decisions: which segments to invest in, where margin is leaking, what's driving churn.
 
-**What I actually do:**
-- Turn raw transactional and marketing data into clear, revenue-tied recommendations
-- Audit CRM and reporting systems for the gaps costing businesses money
-- Build BI dashboards people actually use, not just admire once and forget
-- Specialize in e-commerce analytics: churn, retention, funnel leakage, customer LTV
+## Case studies
 
-**A bit of proof:**
-- 🏆 Global Top 2% at 10Alytics for SQL/ETL work
-- ⭐ Top Rated on Upwork — 100% Job Success Score across 10+ projects for clients in Australia, the EU, and the UK
-- 🛠️ Built and shipped two app MVPs on my own: RubricLens (an AI output auditor) and CleanCRM (a CRM data integrity scanner)
+- [Global Sales & Profit Performance Dashboard](https://github.com/dataguyosif22/global-sales-profit-performance-dashboard): margin analysis across cities, categories, and sub-categories, isolating which segments actually drive profit.
+- [Nestlé R&D Australia Product Sales Dashboard](https://github.com/dataguyosif22/nestle-product-sales-performance-dashboard): multi-year product and channel performance across a branded FMCG portfolio.
+- [Workforce & Absenteeism Analytics, Arima Pastry](https://github.com/dataguyosif22/workforce-absenteeism-hr-dashboard): HR analytics identifying which roles and locations carry the most absenteeism risk.
+- [Education for All Donor Insights](https://github.com/dataguyosif22/education-for-all-donor-insights): SQL-driven donor segmentation with full query documentation and methodology.
 
-**Currently:**
-- Pursuing a Postgraduate Diploma in Management Information Systems
-- Building out a small portfolio of monetizable analytics tools
+## Apps
 
-**Tools I reach for:** SQL, Excel/Power BI, Python for analysis, and whatever gets a client from "we have data" to "we know what to do next"
+- [RubricLens](https://rubriclens-analytic-solutions.vercel.app): an AI output auditor.
+- [CleanCRM](https://cleancrm-analytic-solutions.vercel.app): a CRM data integrity scanner.
 
-📊 Portfolio: [analytics-case-study.netlify.app](https://analytics-case-study.netlify.app)
-💼 LinkedIn: [yusuftundedunmoye](https://linkedin.com/in/yusuftundedunmoye-b154a21a1)
-✉️ Email: yusuftundedunmoye@gmail.com
+## Credentials
 
-If your data has answers nobody's asking it yet, let's talk.
+- Global Top 2% at 10Alytics for SQL/ETL work, 2022
+- [Top Rated on Upwork](https://www.upwork.com/freelancers/~01de097360082668b0?mp_source=share): 100% Job Success Score across 10+ projects for clients in Australia, the EU, and the UK
+
+## Currently
+
+Pursuing a Postgraduate Diploma in Management Information Systems.
+
+## Stack
+
+Power BI, DAX, PostgreSQL/SQL, Python, Excel.
+
+## Links
+
+Portfolio: [yusuf-data-analytics-portfolio.netlify.app](https://yusuf-data-analytics-portfolio.netlify.app/)
+LinkedIn: [yusuftundedunmoye](https://linkedin.com/in/yusuftundedunmoye-b154a21a1)
+Email: yusuftundedunmoye@gmail.com
