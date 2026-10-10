@@ -1,8 +1,8 @@
 # Yusuf Tunde Dunmoye
 
-Data Analyst and BI Consultant specializing in e-commerce analytics, based in Kaduna, Nigeria.
+Data Analyst and BI Consultant specializing in e-commerce analytics. Based in Kaduna, Nigeria (UTC+1), overlapping with most of the European workday and within an hour of UK business hours.
 
-I build BI dashboards and SQL-driven analyses that tie directly to business decisions: which segments to invest in, where margin is leaking, what's driving churn.
+I build BI dashboards and SQL-driven analyses that tie directly to business decisions: which segments to invest in, where margin is leaking, what's driving churn. I like dashboards that get used, not ones that get admired once and forgotten.
 
 ## Case studies
 
@@ -34,3 +34,7 @@ Power BI, DAX, PostgreSQL/SQL, Python, Excel.
 Portfolio: [yusuf-data-analytics-portfolio.netlify.app](https://yusuf-data-analytics-portfolio.netlify.app/)
 LinkedIn: [yusuftundedunmoye](https://linkedin.com/in/yusuftundedunmoye-b154a21a1)
 Email: yusuftundedunmoye@gmail.com
+
+---
+
+Open to remote Data Analyst / BI Consultant roles and new e-commerce analytics projects. If that's what you need, the links above go straight to me.
