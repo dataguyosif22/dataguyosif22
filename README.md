@@ -13,8 +13,8 @@ I build BI dashboards and SQL-driven analyses that tie directly to business deci
 
 ## Apps
 
-- [RubricLens](https://rubriclens-analytic-solutions.vercel.app): an AI output auditor.
-- [CleanCRM](https://cleancrm-analytic-solutions.vercel.app): a CRM data integrity scanner.
+- [RubricLens](https://rubriclens-analytic-solutions.vercel.app) ([source](https://github.com/dataguyosif22/rubriclens)): an AI output auditor.
+- [CleanCRM](https://cleancrm-analytic-solutions.vercel.app) ([source](https://github.com/dataguyosif22/cleancrm)): a CRM data integrity scanner.
 
 ## Credentials
 
