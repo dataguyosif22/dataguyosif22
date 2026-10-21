@@ -31,7 +31,7 @@ Power BI, DAX, PostgreSQL/SQL, Python, Excel.
 
 ## Links
 
-Portfolio: [yusuf-data-analytics-portfolio.netlify.app](https://yusuf-data-analytics-portfolio.netlify.app/)
+Portfolio: [portfolio-case-study.netlify.app](https://portfolio-case-study.netlify.app)
 LinkedIn: [yusuftundedunmoye](https://linkedin.com/in/yusuftundedunmoye-b154a21a1)
 Email: yusuftundedunmoye@gmail.com
 
